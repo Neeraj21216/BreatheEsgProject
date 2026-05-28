@@ -1,0 +1,8 @@
+app = "breatheesg-app"
+primary_region = "iad"
+
+[build]
+dockerfile = "Dockerfile"
+
+[env]
+PORT = "8080"
